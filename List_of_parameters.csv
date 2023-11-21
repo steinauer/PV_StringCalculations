@@ -1,9 +1,9 @@
 Value,Parameter,Units
 42.13,Vmp,Volts
-680,Vmmpt_min,Volts
+580,Vmmpt_min,Volts
 830,Vmmpt_max,Volts
 50.01,Voc,Volts
-1000,Vinv_max,Volts
+1500,Vinv_max,Volts
 ,Vmp_tempcoef,%/Deg. C
 -0.272,Voc_tempcoef,%/Deg. C
 10,Safety_factor_InvMINvoltage,Percentage
