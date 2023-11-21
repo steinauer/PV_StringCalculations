@@ -1,0 +1,20 @@
+Value,Parameter,Units
+42.13,Vmp,Volts
+680,Vmmpt_min,Volts
+830,Vmmpt_max,Volts
+50.01,Voc,Volts
+1000,Vinv_max,Volts
+,Vmp_tempcoef,%/Deg. C
+-0.272,Voc_tempcoef,%/Deg. C
+10,Safety_factor_InvMINvoltage,Percentage
+-5,Safety_factor_InvMAXvoltage,Percentage
+2,Cable_drop,Percentage
+144.75,Iinverterinput_max,Amps
+11.45,Isc,Amps
+0.044,Isc_tempcoef,Amps/Deg. C
+150,Pinv_ratedmaxPV,kW
+0.46,Pmodule_output,kW
+-0.35,Pmp_tempcoef,%/Deg. C
+14,Tmin,Deg. C
+50,Tmax,Deg. C
+9,Inverter number of inputs,
